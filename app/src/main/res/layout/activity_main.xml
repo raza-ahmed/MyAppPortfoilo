@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="in.ahmedraza.myappportfoilo.MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="My Nanodegree Apps!"
+        android:gravity="center"
+        android:paddingTop="10dp"
+        android:textColor="#2E3D49"
+        android:textSize="24sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginRight="50dp">
+
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="POPULAR MOVIES"
+        android:id="@+id/button1"
+        android:onClick="pupularMovies"
+        android:textColor="#ffffff"
+        android:layout_margin="5dp"
+        android:background="@color/buttonColor"
+        style="?android:attr/borderlessButtonStyle"
+         />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="STOCK HAWK"
+        android:id="@+id/button2"
+        android:onClick="stockHawk"
+        android:textColor="#ffffff"
+        android:background="@color/buttonColor"
+        android:layout_margin="5dp"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="BUILD IT BIGGER"
+        android:id="@+id/button3"
+        android:onClick="buildBigger"
+        android:textColor="#ffffff"
+        android:background="@color/buttonColor"
+        android:layout_margin="5dp"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="MAKE YOUR APP MATERIAL"
+        android:id="@+id/button4"
+        android:onClick="makeMaterial"
+        android:textColor="#ffffff"
+        android:background="@color/buttonColor"
+        android:layout_margin="5dp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="GO UBIQUITIOUS"
+        android:id="@+id/button5"
+        android:onClick="goUbiquitious"
+        android:textColor="#ffffff"
+        android:background="@color/buttonColor"
+        android:layout_margin="5dp"/>
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="CAPSTONE"
+        android:id="@+id/button6"
+        android:onClick="capstone"
+        android:textColor="#ffffff"
+        android:background="@color/buttonColor"
+        android:layout_margin="5dp"/>
+
+        </LinearLayout>
+
+
+</LinearLayout>

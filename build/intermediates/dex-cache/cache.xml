@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="7508e184c2cad9da101d8c2cc60116ab8c4aa3f8">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/instant-run_5584659992d76c16fc95a9e9ad9494099e67d2fe.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2f7e6e2dad1bccaf68a8820820adc6c0d5b96d37">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.0.0_e56009b77f26a2728f22ed534db3bd73632746da.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="e70f608219ed6b974644c333249ab2bb7b71de98">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.0.0_62b7afc13ef89391525f16287bfd4f1ace260ebf.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="0874286cc2fd88d54fdf130e9d5372730da6de97">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.0.0_80795e723cc76f8330cc86161ae0b8a74db5b4f4.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="3bd97cfefd783e9de1dd1c30574a6adb44b4409b">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.0.0_de8bfa84822531bfd1527c687e0857b6d2cc6138.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.0.0/jars/libs/internal_impl-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="fcaf463e10e69c1923ccf1edeba3b4196d239e00">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/internal_impl-24.0.0_5dfd1308ab376db47c44a96331f4fd27d21ae737.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/support-annotations-24.0.0_6a8a596ebb7b07b3d5ac727765bec3281dba632b.jar" />
+    </item>
+    <item
+        jar="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="ecca62c636a820b5e32954e31dbdf5b378e35ad4">
+        <dex dex="/Users/ahmedraza/Desktop/Udacity_Projects/MyAppPortfoilo/app/build/intermediates/pre-dexed/debug/instant-run-bootstrap_daadf513f74496db9203c2f93606a6bd9822bd14.jar" />
+    </item>
+
+</items>
